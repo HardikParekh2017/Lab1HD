@@ -1,0 +1,85 @@
+C:\gautamb\MasterPageLab\MasterPageLab\bin\roslyn\csc.exe
+C:\gautamb\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\gautamb\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\gautamb\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\gautamb\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\gautamb\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\gautamb\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\gautamb\MasterPageLab\MasterPageLab\bin\roslyn\System.Collections.Immutable.dll
+C:\gautamb\MasterPageLab\MasterPageLab\bin\roslyn\System.Reflection.Metadata.dll
+C:\gautamb\MasterPageLab\MasterPageLab\bin\roslyn\vbc.exe
+C:\gautamb\MasterPageLab\MasterPageLab\bin\roslyn\VBCSCompiler.exe
+C:\gautamb\MasterPageLab\MasterPageLab\bin\roslyn\VBCSCompiler.exe.config
+C:\gautamb\MasterPageLab\MasterPageLab\bin\MasterPageLab.dll.config
+C:\gautamb\MasterPageLab\MasterPageLab\bin\MasterPageLab.dll
+C:\gautamb\MasterPageLab\MasterPageLab\bin\MasterPageLab.pdb
+C:\gautamb\MasterPageLab\MasterPageLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\gautamb\MasterPageLab\MasterPageLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\gautamb\MasterPageLab\MasterPageLab\obj\Debug\MasterPageLab.dll
+C:\gautamb\MasterPageLab\MasterPageLab\obj\Debug\MasterPageLab.pdb
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\bin\roslyn\csc.exe
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\bin\roslyn\vbc.exe
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\bin\roslyn\VBCSCompiler.exe
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\bin\MasterPageLab.dll.config
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\bin\MasterPageLab.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\bin\MasterPageLab.pdb
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\obj\Debug\MasterPageLab.csprojAssemblyReference.cache
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\obj\Debug\MasterPageLab.csproj.CoreCompileInputs.cache
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\obj\Debug\MasterPageLab.csproj.CopyComplete
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\obj\Debug\MasterPageLab.dll
+C:\Users\Narveer Singh Brar\Desktop\arsh\MasterPageLab\MasterPageLab\obj\Debug\MasterPageLab.pdb
+I:\MasterPageLab\MasterPageLab\bin\roslyn\csc.exe
+I:\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\MasterPageLab\MasterPageLab\bin\roslyn\System.Collections.Immutable.dll
+I:\MasterPageLab\MasterPageLab\bin\roslyn\System.Reflection.Metadata.dll
+I:\MasterPageLab\MasterPageLab\bin\roslyn\vbc.exe
+I:\MasterPageLab\MasterPageLab\bin\roslyn\VBCSCompiler.exe
+I:\MasterPageLab\MasterPageLab\bin\roslyn\VBCSCompiler.exe.config
+I:\MasterPageLab\MasterPageLab\bin\MasterPageLab.dll.config
+I:\MasterPageLab\MasterPageLab\bin\MasterPageLab.dll
+I:\MasterPageLab\MasterPageLab\bin\MasterPageLab.pdb
+I:\MasterPageLab\MasterPageLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\MasterPageLab\MasterPageLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\MasterPageLab\MasterPageLab\obj\Debug\MasterPageLab.csprojAssemblyReference.cache
+I:\MasterPageLab\MasterPageLab\obj\Debug\MasterPageLab.csproj.CoreCompileInputs.cache
+I:\MasterPageLab\MasterPageLab\obj\Debug\MasterPageLab.csproj.CopyComplete
+I:\MasterPageLab\MasterPageLab\obj\Debug\MasterPageLab.dll
+I:\MasterPageLab\MasterPageLab\obj\Debug\MasterPageLab.pdb
+H:\MasterPageLab\MasterPageLab\bin\roslyn\csc.exe
+H:\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\MasterPageLab\MasterPageLab\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\MasterPageLab\MasterPageLab\bin\roslyn\System.Collections.Immutable.dll
+H:\MasterPageLab\MasterPageLab\bin\roslyn\System.Reflection.Metadata.dll
+H:\MasterPageLab\MasterPageLab\bin\roslyn\vbc.exe
+H:\MasterPageLab\MasterPageLab\bin\roslyn\VBCSCompiler.exe
+H:\MasterPageLab\MasterPageLab\bin\roslyn\VBCSCompiler.exe.config
+H:\MasterPageLab\MasterPageLab\bin\MasterPageLab.dll.config
+H:\MasterPageLab\MasterPageLab\bin\MasterPageLab.dll
+H:\MasterPageLab\MasterPageLab\bin\MasterPageLab.pdb
+H:\MasterPageLab\MasterPageLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\MasterPageLab\MasterPageLab\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\MasterPageLab\MasterPageLab\obj\Debug\MasterPageLab.csprojAssemblyReference.cache
+H:\MasterPageLab\MasterPageLab\obj\Debug\MasterPageLab.csproj.CoreCompileInputs.cache
+H:\MasterPageLab\MasterPageLab\obj\Debug\MasterPageLab.csproj.CopyComplete
+H:\MasterPageLab\MasterPageLab\obj\Debug\MasterPageLab.dll
+H:\MasterPageLab\MasterPageLab\obj\Debug\MasterPageLab.pdb
